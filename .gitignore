@@ -1,0 +1,5 @@
+node_modules/
+.bundle/
+bundle-parent.tar.gz
+*.tar.gz
+.DS_Store
